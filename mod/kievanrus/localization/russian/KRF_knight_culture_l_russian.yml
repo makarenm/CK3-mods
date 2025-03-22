@@ -1,0 +1,24 @@
+﻿l_russian:
+ knight_bogatyr_no_tooltip:0 "Богатырь"
+ knight_bogatyr_no_tooltip_plural:0 "Богатыри"
+ knight_boyar_no_tooltip:0 "Боярин"
+ knight_boyar_no_tooltip_plural:0 "Бояре"
+  
+  # Lowercase versions
+ knight_bogatyr_no_tooltip_lowercase:0 "богатырь"
+ knight_bogatyr_no_tooltip_lowercase_plural:0 "богатыри"
+ knight_bogatyr_no_tooltip_lowercase_plural_possessive:0 "богатырей"
+ knight_bogatyr_no_tooltip_lowercase_adjective:0 "богатырск"
+ knight_boyar_no_tooltip_lowercase:0 "боярин"
+ knight_boyar_no_tooltip_lowercase_plural:0 "бояре"
+ knight_boyar_no_tooltip_lowercase_plural_possessive:0 "бояриней"
+ knight_boyar_no_tooltip_lowercase_adjective:0 "бояринск"
+
+  #Game Concept versions
+ knight_bogatyr:0 "[Concept( 'knight', '$knight_bogatyr_no_tooltip$' )|E]"
+ knight_bogatyr_plural:0 "[Concept( 'knight', '$knight_bogatyr_no_tooltip_plural$' )|E]"
+ knight_boyar:0 "[Concept( 'knight', '$knight_boyar_no_tooltip$' )|E]"
+ knight_boyar_plural:0 "[Concept( 'knight', '$knight_boyar_no_tooltip_plural$' )|E]"
+
+
+

@@ -1,0 +1,94 @@
+historical_orthodox_rus_conversion_decision = {
+	picture = {
+		reference = "gfx/interface/illustrations/decisions/decision_major_religion.dds"
+	}
+	sort_order = 10
+	major = no
+	#ai_goal = yes
+	ai_check_interval = 12
+    confirm_text = historical_orthodox_conversion_decision_confirm
+	is_shown = {
+		is_ruler = yes
+		culture = culture:russian
+		NOT = { religion = religion:christianity_religion }
+		#Slavic Paganism must not have been reformed.
+		religion:slavic_religion = {
+			any_faith = {
+				count = all
+				has_doctrine = unreformed_faith_doctrine
+			}
+		}
+	}
+	is_valid = {
+		is_independent_ruler = yes
+	}
+	is_valid_showing_failures_only = {
+		is_imprisoned = no
+		is_available_adult = yes
+		is_at_war = no
+		is_capable_adult = yes
+	}
+	effect = {
+        set_character_faith_with_conversion = faith:orthodox
+    }
+	cost = {
+		piety = 500
+		gold = 100
+	}
+	ai_potential = {
+		current_date >= 988.1.1
+		#always = yes
+	}
+	ai_will_do = {
+		base = 33
+	}
+}
+
+historical_orthodox_eastslavs_conversion_decision = {
+	picture = {
+		reference = "gfx/interface/illustrations/decisions/decision_major_religion.dds"
+	}
+	sort_order = 10
+	major = no
+	#ai_goal = yes
+	ai_check_interval = 12
+    confirm_text = historical_orthodox_conversion_decision_confirm
+	is_shown = {
+		is_ruler = yes
+		culture = { has_cultural_pillar = heritage_east_slavic }
+		NOT = { 
+			religion = religion:christianity_religion 
+			culture = culture:russian
+		}
+		#Slavic Paganism must not have been reformed.
+		religion:slavic_religion = {
+			any_faith = {
+				count = all
+				has_doctrine = unreformed_faith_doctrine
+			}
+		}
+	}
+	is_valid = {
+		is_independent_ruler = yes
+	}
+	is_valid_showing_failures_only = {
+		is_imprisoned = no
+		is_available_adult = yes
+		is_at_war = no
+		is_capable_adult = yes
+	}
+	effect = {
+        set_character_faith_with_conversion = faith:orthodox
+    }
+	cost = {
+		piety = 500
+		gold = 100
+	}
+	ai_potential = {
+		current_date >= 988.1.1
+		#always = yes
+	}
+	ai_will_do = {
+		base = 33
+	}
+}

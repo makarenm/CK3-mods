@@ -1,0 +1,46 @@
+e_spain = {
+	pattern = "pattern_solid.dds"
+	color1 = "red"
+	color2 = "yellow"
+	colored_emblem = {
+		texture = "ce_block_02.dds"
+		color1 = "white"
+		color2 = "white"
+		instance = { position = { 0.75 0.21 } scale = { 0.5 0.5 }  }
+	}	
+	colored_emblem = {
+		texture = "ce_castle.dds"
+		color1 = "yellow"
+		color2 = "blue"
+		instance = { position = { 0.27 0.25 } scale = { 0.5 0.5 }  }
+	}
+	colored_emblem = {
+		texture = "ce_lion_rampant_crown.dds"
+		color1 = "purple"
+		color2 = "yellow"
+		instance = { position = { 0.69 0.28 } scale = { 0.5 0.5 }  }
+	}
+	colored_emblem = {
+		texture = "ce_ordinary_pales_4.dds"
+		color1 = "yellow"
+		color2 = "red"		
+		instance = { position = { 0.25 0.71 } scale = { 0.5 0.5 }  }		
+	}
+	colored_emblem = {
+		texture = "ce_chains.dds"
+		color1 = "yellow"
+		color2 = "green"
+		instance = { position = { 0.69 0.71 } scale = { 0.5 0.5 }  }		
+	}
+	colored_emblem = {
+		texture = "ce_border_banner.dds"
+		color1 = "blue"
+		instance = { scale = { 0.4 0.4 }  }
+	}	
+	colored_emblem = {
+		texture = "ce_cross_asturias.dds"
+		color1 = "yellow"
+		color2 = "red"
+		instance = { scale = { 0.3 0.3 }  }
+	}		
+}

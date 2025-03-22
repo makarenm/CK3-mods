@@ -1,0 +1,134 @@
+507 = { # Bagrationi
+	pattern = "pattern_checkers_01.dds"
+	color1 = "red"
+	color2 = "blue"
+	colored_emblem = {
+		texture = "ce_bagrationi.png"
+		color1 = "yellow"
+		color2 = "white"
+	}
+	colored_emblem = {
+		texture = "ce_bagrationi2.png"
+		color1 = "red"
+		color2 = "white"
+	}	
+}
+
+261 = { # Zähringen
+	pattern = "pattern_solid.dds"
+	color1 = "yellow"
+	color2 = "red"
+	colored_emblem = {
+		texture = "ce_zahringen.png"
+		color1 = "yellow"
+		color2 = "red"
+		color3 = "black"
+	}
+}
+
+528 = { # Wettin
+	pattern = "pattern_solid.dds"
+	color1 = "yellow"
+	color2 = "black"
+	colored_emblem = {
+		texture = "ce_wettin.png"
+		color1 = "yellow"
+		color2 = "green"
+		color3 = "black"			
+	}
+}
+
+100072 = { # Wessex # EE
+	pattern = "pattern_solid.dds"	
+	color1 = "blue"
+	color2 = "yellow"							
+	colored_emblem = {
+		texture = "ce_wessex.png"
+		color1 = "blue"
+		color2 = "yellow"	
+	}			
+}
+house_british_isles_wessex = 100072
+
+house_salian = { # Salian
+	pattern = "pattern_solid.dds"
+	color1 = "blue"
+	color2 = "blue"
+	colored_emblem = {
+		texture = "ce_salian.png"
+		color1 = "blue"
+		color2 = "yellow"
+		instance = { position = { 0.5 0.52 } scale = { 1.1 1.1 }  }		
+	}
+}
+
+644 = { # Makedon
+	pattern = "pattern_solid.dds"
+	color1 = "red"	
+	color2 = "black"
+	colored_emblem = {
+		texture = "ce_makedon.png"
+		color1 = "red"
+		color2 = "yellow"
+	}
+}
+
+634 = { # Komnenos
+	pattern = "pattern_solid.dds"
+	color1 = "yellow"	
+	color2 = "black"
+	colored_emblem = {
+		texture = "ce_komnenos.png"
+		color1 = "black"
+		color2 = "red"
+		color3 = "yellow"
+	}
+}
+
+12476 = { # Hohenzollern
+	pattern = "pattern_checkers_01.dds"
+	color1 = "white"	
+	color2 = "white"
+	colored_emblem = {
+		texture = "ce_hohenzollern.png"
+		color1 = "white"
+		color2 = "black"	
+	}
+	colored_emblem = {
+		texture = "ce_hohenzollern2.png"
+		color1 = "yellow"
+		color2 = "red"
+	}
+}
+
+51 = { # Habsburg
+	pattern = "pattern_solid.dds"
+	color1 = "yellow"
+	color2 = "red"
+	colored_emblem = {
+		texture = "ce_habsburg.png"
+		color1 = "blue"
+		color2 = "red"		
+	}			
+}
+
+7389 = { #Guideschi
+	pattern = "pattern_solid.dds"	
+	color1 = "green"	
+	colored_emblem = {
+		texture = "ce_bonifazi.png"
+		color1 = "yellow"
+		color2 = "green"	
+	}
+	colored_emblem = {
+		texture = "ce_bonifazi2.png"
+		color1 = "white"
+        color2 = "red"			
+	}
+	colored_emblem = {
+		texture = "ce_eagle_crown.dds"
+		color1 = "black"
+		color2 = "orange"
+		instance = { scale = { 0.4 0.4 }  }		
+	}
+}

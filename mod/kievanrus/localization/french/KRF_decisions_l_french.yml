@@ -1,0 +1,21 @@
+﻿l_french:
+
+	historical_orthodox_conversion_decision_confirm:0 "Envoyez chercher le patriarche"
+
+	historical_orthodox_rus_conversion_decision:0 "Christianiser la Rus"
+	historical_orthodox_rus_conversion_decision_desc:0 "Pendant de nombreuses années, notre peuple a pillé et fait du commerce avec le riche royaume des Romains au-delà de la mer Noire. À Constantinople se trouve Sainte-Sophie, le plus grand lieu de culte du monde connu. Peut-être le temps est-il venu d'abandonner les anciens dieux et d'adopter la foi de la Cité du Désir du Monde? Après tout, Jésus a transformé l'eau en vin, et n'est-il pas vrai que boire est la joie de toute la Rus?"
+	historical_orthodox_rus_conversion_decision_tooltip:0 "Le peuple rus sous votre domination adopte le christianisme orthodoxe"
+
+	historical_orthodox_eastslavs_conversion_decision:0 "Christianiser les Slaves de l'Est"
+	historical_orthodox_eastslavs_conversion_decision_desc:0 "Pendant de nombreuses années, notre peuple a pillé et fait du commerce avec le riche royaume des Romains au-delà de la mer Noire. À Constantinople se trouve Sainte-Sophie, le plus grand lieu de culte du monde connu. Peut-être le temps est-il venu d'abandonner les anciens dieux et d'adopter la foi de la Cité du Désir du Monde? Après tout, Jésus a transformé l'eau en vin, et n'est-il pas vrai que boire est la joie de tous les Slaves?"
+	historical_orthodox_eastslavs_conversion_decision_tooltip:0 "Les peuples slaves de l'Est sous votre domination adoptent le christianisme orthodoxe"
+
+	rus_gathering_decision:0 "Organiser un rassemblement des princes rus"
+	rus_gathering_decision_desc:0 "En tant que dirigeant de la Russie, j'occupe une position importante. Il est dans mon intérêt d'inviter d'autres princes puissants pour gagner leur faveur et discuter des affaires de nos royaumes, cela contribuera à consolider mon autorité."
+	rus_gathering_decision_tooltip:0 "Écoutons ce que les autres princes ont à dire"
+	rus_gathering_decision_confirm:0 "Envoyer les invitations"
+
+	nomads:0 "Recruter un hôte nomade"
+	nomads_desc:0 "Les habitants des steppes sont des barbares; ils brûlent, tuent et pillent, mais nous pouvons utiliser leur nature à notre avantage. Nous pouvons les payer pour qu'ils combattent à nos côtés, leurs cavaliers expérimentés se révéleraient très utiles."
+	nomads_tooltip:0 "Même les barbares comprennent le langage de l'or" 
+	nomads_confirm:0 "Envoyez le héraut"

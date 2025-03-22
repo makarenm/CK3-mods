@@ -1,0 +1,137 @@
+historical_catholic_norse_conversion_decision = {
+	picture = {
+		reference = "gfx/interface/illustrations/decisions/decision_major_religion.dds"
+	}
+	major = no
+	#ai_goal = yes
+	ai_check_interval = 12
+	sort_order = 10
+	confirm_text = historical_catholic_conversion_decision_confirm
+	is_shown = {
+		is_ruler = yes
+		culture = { has_cultural_pillar = heritage_north_germanic }
+		NOT = { religion = religion:christianity_religion }
+		#Norse Paganism must not have been reformed.
+		religion:germanic_religion = {
+			any_faith = {
+				count = all
+				has_doctrine = unreformed_faith_doctrine
+			}
+		}
+	}
+	is_valid = {
+		is_independent_ruler = yes
+	}
+	is_valid_showing_failures_only = {
+		is_imprisoned = no
+		is_available_adult = yes
+		is_at_war = no
+		is_capable_adult = yes
+	}
+	effect = {
+        set_character_faith_with_conversion = faith:catholic
+    }
+	cost = {
+		piety = 500
+		gold = 100
+	}
+	ai_potential = {
+		current_date >= 995.1.1
+		#always = yes
+	}
+	ai_will_do = {
+		base = 33
+	}
+}
+
+historical_catholic_westslav_conversion_decision = {
+	picture = {
+		reference = "gfx/interface/illustrations/decisions/decision_major_religion.dds"
+	}
+	sort_order = 10
+	major = no
+	#ai_goal = yes
+	ai_check_interval = 12
+    confirm_text = historical_catholic_conversion_decision_confirm
+	is_shown = {
+		is_ruler = yes
+		culture = { has_cultural_pillar = heritage_west_slavic }
+		NOT = { religion = religion:christianity_religion }
+		#Slavic Paganism must not have been reformed.
+		religion:slavic_religion = {
+			any_faith = {
+				count = all
+				has_doctrine = unreformed_faith_doctrine
+			}
+		}
+	}
+	is_valid = {
+		is_independent_ruler = yes
+	}
+	is_valid_showing_failures_only = {
+		is_imprisoned = no
+		is_available_adult = yes
+		is_at_war = no
+		is_capable_adult = yes
+	}
+	effect = {
+        set_character_faith_with_conversion = faith:catholic
+    }
+	cost = {
+		piety = 500
+		gold = 100
+	}
+	ai_potential = {
+		current_date >= 966.4.14
+		#always = yes
+	}
+	ai_will_do = {
+		base = 33
+	}
+}
+
+historical_catholic_hungarian_conversion_decision = {
+	picture = {
+		reference = "gfx/interface/illustrations/decisions/decision_major_religion.dds"
+	}
+	sort_order = 10
+	major = no
+	#ai_goal = yes
+	ai_check_interval = 12
+    confirm_text = historical_catholic_conversion_decision_confirm
+	is_shown = {
+		is_ruler = yes
+		culture = { has_cultural_pillar = heritage_magyar }
+		NOT = { religion = religion:christianity_religion }
+		#Táltoism must not have been reformed.
+		religion:magyar_religion = {
+			any_faith = {
+				count = all
+				has_doctrine = unreformed_faith_doctrine
+			}
+		}
+	}
+	is_valid = {
+		is_independent_ruler = yes
+	}
+	is_valid_showing_failures_only = {
+		is_imprisoned = no
+		is_available_adult = yes
+		is_at_war = no
+		is_capable_adult = yes
+	}
+	effect = {
+        set_character_faith_with_conversion = faith:catholic
+    }
+	cost = {
+		piety = 500
+		gold = 100
+	}
+	ai_potential = {
+		current_date >= 1000.1.1
+		#always = yes
+	}
+	ai_will_do = {
+		base = 33
+	}
+}

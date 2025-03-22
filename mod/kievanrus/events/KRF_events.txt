@@ -1,0 +1,42 @@
+﻿namespace = nomads
+
+nomads.3 = {
+	type = character_event
+	title = nomads.3.title
+	desc = nomads.3.desc
+	
+	theme = martial
+	
+	left_portrait = {
+		character = root
+		animation = idle
+	}
+	right_portrait = {
+		character = scope:cumanomads
+		animation = personality_bold 
+	}
+
+	trigger = { exists = capital_province }
+
+	immediate = {
+		# Create random courtier
+		create_character = {
+			employer = root
+			age = { 25 35 }
+			gender = male
+			random_traits = yes
+			trait = education_martial_2
+			martial = {5 10}
+			faith = faith:tengri_pagan
+			culture = culture:cuman
+			dynasty = generate
+			save_scope_as = cumanomads
+		}
+	}
+
+	# Hire them
+	option = {
+		name = nomads.3.hire
+	}
+
+}

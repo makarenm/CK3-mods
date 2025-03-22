@@ -1,0 +1,54 @@
+﻿l_french:
+
+# Rus
+ #baron_republic_male_rus:0 "Posadnique"
+ #baron_republic_female_rus:0 "Posadnitrice"
+ baron_feudal_male_rus:0 "Boyar"
+ baron_feudal_female_rus:0 "Boyaresse"
+ barony_feudal_rus:0 "Volosté"
+ count_feudal_male_rus:0 "Namestnique"
+ count_feudal_female_rus:0 "Namestnitrice"
+ county_feudal_rus:0 "Comté"
+ duke_feudal_male_rus:0 "Prince"
+ duke_feudal_female_rus:0 "Princesse"
+ duchy_feudal_rus:0 "Principauté"
+ king_feudal_male_rus:0 "Grand prince"
+ king_feudal_female_rus:0 "Grande princesse"
+ kingdom_feudal_rus:0 "Grande-principauté"
+ prince_male_rus:0 "Kniazhiche"
+ prince_female_rus:0 "Kniazhnice"
+ prince_male_rus_empire:0 "Tsareviche"
+ prince_female_rus_empire:0 "Tsarevnice"
+# Vanilla
+ duke_feudal_male_russian:0 "Prince"
+ duke_feudal_female_russian:0 "Princesse"
+ duchy_feudal_russian:0 "Principauté"
+ emperor_feudal_male_russian:0 "Tsar"
+ emperor_feudal_female_russian:0 "Tsaritrice"
+ empire_feudal_russian:0 "Tsarisme"
+  
+# Bulgarian
+ king_feudal_male_bulgarian:0 "Tsar"
+ king_feudal_female_bulgarian:0 "Tsaritrice"
+ kingdom_feudal_bulgarian:0 "Tsarisme"
+ 
+# Serbian
+ count_feudal_male_serbian:0 "Zhupane"
+ count_feudal_female_serbian:0 "Zhupanesse"
+ county_feudal_serbian:0 "Zhupauté"
+ duke_feudal_male_serbian:0 "Grand zhupane"
+ duke_feudal_female_serbian:0 "Grande zhupanesse"
+ duchy_feudal_serbian:0 "Grande-zhupauté"
+ 
+# Vlach
+ duke_feudal_male_vlach:0 "Voïvode"
+ duke_feudal_female_vlach:0 "Voïvodesse"
+ duchy_feudal_vlach:0 "Voivodie"
+ king_feudal_male_vlach:0 "Hospodare"
+ king_feudal_female_vlach:0 "Hospodaresse"
+ kingdom_feudal_vlach:0 "Hospodie"
+ 
+# Croatian
+ count_feudal_male_croatian:0 "Zhupane"
+ count_feudal_female_croatian:0 "Zhupanesse"
+ county_feudal_croatian:0 "Zhupauté"

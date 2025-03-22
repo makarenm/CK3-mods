@@ -1,0 +1,21 @@
+﻿l_english:
+
+	historical_orthodox_conversion_decision_confirm:0 "Send for the Patriarch"
+
+	historical_orthodox_rus_conversion_decision:0 "Christianise the Rus"
+	historical_orthodox_rus_conversion_decision_desc:0 "For many years, our people have raided and traded with the wealthy realm of the Romans beyond the Black Sea. In Constantinople stands the Hagia Sophia, the largest place of worship in the known world. Perhaps the time has come to forsake the old gods and adopt the faith of the City of The World's Desire? After all, Jesus turned water into wine, and is it not true that drinking is the joy of all Rus?"
+	historical_orthodox_rus_conversion_decision_tooltip:0 "The Rus people under your rule adopt Orthodox Christianity"
+
+	historical_orthodox_eastslavs_conversion_decision:0 "Christianise the East Slavs"
+	historical_orthodox_eastslavs_conversion_decision_desc:0 "For many years, our people have raided and traded with the wealthy realm of the Romans beyond the Black Sea. In Constantinople stands the Hagia Sophia, the largest place of worship in the known world. Perhaps the time has come to forsake the old gods and adopt the faith of the City of The World's Desire? After all, Jesus turned water into wine, and is it not true that drinking is the joy of all Slavs?"
+	historical_orthodox_eastslavs_conversion_decision_tooltip:0 "The East Slavic people under your rule adopt Orthodox Christianity"
+
+	rus_gathering_decision:0 "Organize a Gathering of Rus Princes"
+	rus_gathering_decision_desc:0 "As a Rus ruler, I hold an important position. It is in my best interest to invite other powerful princes to win their favour and discuss matters of our realms, this will help solidify my authority."
+	rus_gathering_decision_tooltip:0 "Let us hear what other Princes have to say"
+	rus_gathering_decision_confirm:0 "Send the invitations"
+
+	nomads:0 "Recruit Nomad Host"
+	nomads_desc:0 "The steppe people are barbarians - they burn, murder and pillage, but we can use their nature to our advantage. We can pay them to fight alongside us, their experienced horsemen would prove to be very useful."
+	nomads_tooltip:0 "Even barbarians understand the language of gold" 
+	nomads_confirm:0 "Send the herald"

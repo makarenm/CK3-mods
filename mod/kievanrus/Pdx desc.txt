@@ -1,0 +1,96 @@
+"Empire of Russia" title and "Russian" culture, renamed to "The Kievan Rus" and "Rus" respectively, change CoAs, and other changes.
+
+---------------------------------------------------------------------------------------------------
+
+WHAT IS THIS MOD? 
+• This mod primarily fixes two major historical inaccuracies in the game; the "Empire of Russia" title and the "Russian" culture names, renamed to "The Kievan Rus" and "Rus" respectively. Additionally, it changes the coat of arms of Ruthenia and Kievan Rus to the coinage tridents of Yaropolk and Vladimir The Great, respectively.
+
+WHY? 
+• The Tsardom of Russia (predecessor state to the Russian Empire) historically wasn't formed until 1547, nearly 100 years after the "end" of the Medieval Period/Middle Ages, in which CK3 is set. It doesn't make sense then, that the territory historically referred to as the Kievan Rus/Rus' at its greatest extent, is called "Russia" in the game. Equally, it doesn't make sense for the ancient Rus people to be called "Russian" when the cultural split between Ukrainians, Belarusians and Russians didn't begin until after the fall of the Kievan Rus. 
+• As for the tridents of Yaropolk and Vladimir the Great, these symbols are commonly associated with the lands ruled by the House of Rurik and the Grand Prince of Kiev, as they are the among most common symbols found on archaeological finds of coins and other artifacts from the Kievan Rus. Another reason is that the Kievan Rus saw its greatest extent under the rule of Vladimir the Great, so it makes sense to attribute his personal coat of arms to the de jure Kievan Rus lands in the game. This is similar to how the Palaiologos dynasty banner is used for the Byzantine Empire in the game, as neither the Kievan Rus nor the Byzantine Empire had a single unifying flag. The colouration of the Rurikid symbols I added follows the same colour pattern as the Rurikid dynasty coat of arms in the game. 
+• In respect to Ukrainian and Belarusian history, this mod fixes the apparent historical revisionism that somehow, be it deliberately or accidentally, made it into the game.
+
+IS THAT ALL? 
+• Other changes include renaming White Rus' to Polotsk (Credit to Steam User YuriVII). I tried my hand at localising the mod in other languages but it may not be as accurate or grammatically correct as in English. 
+• A new decision called "Christianise the Rus" has been added which becomes available to all non-Christian independent Rus rulers (AI takes it from 988 onwards). This allows the AI to adopt Orthodoxy as opposed to Kabarism/Paganism or being holy warred to extinction. The decision becomes "Christianise the East Slavs" for Rus-divergent or East Slavic hybrid cultures.
+• "Ruthenia" has been renamed to "Kyiv" due to common obscurity and confusion around the name of "Ruthenia" which is just Latinised "Rus". Additionally, the Rus cultural title holders and heirs of Kingdoms and Counties have been changed as follows for cultural and historical accuracy: 
+- Grand Prince (Duke) -> Knyaz
+- Grand Princess (Duchess) -> Knyazitsa
+- Grand Principality (Duchy) -> Knyazhestvo
+- Kingdom -> Grand Knyazhestvo
+- King -> Grand Knyaz
+- Queen -> Grand Knyazitsa
+- Prince (Kingdom heir) -> Kniazhich 
+- Princess (Kingdom heiress) -> Kniazhna 
+- Prince (Empire heir) -> Tsarevich 
+- Princess (Empire heiress) -> Tsarevna 
+^ Credit: Steam User jojo26123 for the ideas of improving the title holder names, changing Ruthenia to Kiev, and adding the new decision. 
+UPDATE (2022/01/10): 
+- Baron/Baroness -> Boyar/Boyaress 
+- Barony -> Volost 
+- Count/Countess -> Namestnik/Namestnitsa 
+- County -> Uyezd
+- Improved Russian localisation (Русачск/Русачи -> Русичи/Русичск, Графство -> Уéзд) 
+^ Credit: Steam User LawfulNeut 
+• Changed the names of Rus culture knights to "Bogatyr". (credit: Steam user Riml121) 
+• Changed the names of all other East Slavic language cultures' knights to "Boyar". (partial credit: Steam user InΔmatus) 
+• Changed the barony and county of "Moskva" to "Moscow" as the proper exonym in English. 
+• Changed additional cultural titles of some South Slavs by request and for extra historical accuracy: 
+- Vlach: 
+Duchy -> Voivodeship 
+Duke -> Voivode 
+Duchess -> Voivoda 
+Kingdom -> Hospodarate 
+King -> Hospodar 
+Queen -> Hospodarka 
+- Serbian: 
+County -> Zhupa 
+Count -> Zhupan 
+Countess -> Zhupana 
+Duchy -> Grand Zhupa 
+Duke -> Grand Zhupan 
+Duchess -> Grand Zhupana 
+- Croatian: 
+County -> Zhupa 
+Count -> Zhupan 
+Countess -> Zhupana 
+- Bulgarian: 
+Kingdom -> Tsardom 
+King -> Tsar 
+Queen -> Tsaritsa 
+(Partial credit for Vlach changes: Steam user Gigachad) 
+• Added two new decisions: Gathering of Rus Princes and Recruit Nomad Host, for additional immersion for certain titles. Also, a new character background for Rus characters. (Credit: Steam user Gigachad for providing a lot of useful code) 
+
+GAME VERSION 1.5 CHANGES
+• Moved Galicia-Volhynia from West Slavia to Kievan Rus
+• Moved Pomerania from Baltic Empire to West Slavia
+• Improved mod compatibility
+• Resolved lingering culture bugs due to pre-1.5 code
+(Large credit to Steam user Zarays)
+
+COMPATIBILITY? 
+• Should be fully compatible with mods that don't edit the above localizations and flavorizations.
+
+LOCALISATION? 
+• I did my best with localisation in other languages, but have not extensively tested them in-game. If you see mistakes, errors or flaws in a non-English language, please let me know and I'll try to fix it. 
+
+SOURCES/FURTHER READING: 
+• https://en.wikipedia.org/wiki/Tsardom_of_Russia 
+• https://en.wikipedia.org/wiki/Kievan_Rus%27 
+• https://en.wikipedia.org/wiki/Symbols_of_the_Rurikids 
+• https://en.wikipedia.org/wiki/Knyaz 
+• https://en.wikipedia.org/wiki/Christianization_of_Kievan_Rus%27 
+• https://en.wikipedia.org/wiki/Byzantine_flags_and_insignia 
+• https://en.wikipedia.org/wiki/%C5%BDupa#Usage 
+• https://en.wikipedia.org/wiki/Bulgaria#First_Bulgarian_Empire 
+• https://en.wiktionary.org/wiki/bogatyr#Noun 
+• https://en.wiktionary.org/wiki/voivode 
+• https://en.wiktionary.org/wiki/hospodar#Etymology 
+• https://en.wikipedia.org/wiki/Posadnik 
+• https://en.wikipedia.org/wiki/Boyar 
+• https://en.wikipedia.org/wiki/Volost 
+• https://en.wikipedia.org/wiki/Uezd 
+
+OTHER CREDITS: 
+• The mods "coat of arms fix" and "Roman Fidelity" for helping me learn how to mod by example. 
+• Steam user "Warlock Engineer" for giving me a helpful suggestion on using the override system.

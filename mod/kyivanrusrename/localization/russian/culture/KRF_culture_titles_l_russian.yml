@@ -1,0 +1,54 @@
+﻿l_russian:
+
+# Rus
+ #baron_republic_male_rus:0 "Посадник"
+ #baron_republic_female_rus:0 "Посадница"
+ baron_feudal_male_rus:0 "Боярин"
+ baron_feudal_female_rus:0 "Боярина"
+ barony_feudal_rus:0 "Волость"
+ count_feudal_male_rus:0 "Наместник"
+ count_feudal_female_rus:0 "Наместница"
+ county_feudal_rus:0 "Уезд"
+ duke_feudal_male_rus:0 "Князь"
+ duke_feudal_female_rus:0 "Княгиня"
+ duchy_feudal_rus:0 "Княжество"
+ king_feudal_male_rus:0 "Великий князь"
+ king_feudal_female_rus:0 "Великая княгиня"
+ kingdom_feudal_rus:0 "Великое княжество"
+ prince_male_rus:0 "Княжич"
+ prince_female_rus:0 "Княжна"
+ prince_male_rus_empire:0 "Царевич"
+ prince_female_rus_empire:0 "Царевна"
+# Vanilla
+ duke_feudal_male_russian:0 "Князь"
+ duke_feudal_female_russian:0 "Княгиня"
+ duchy_feudal_russian:0 "Княжество"
+ emperor_feudal_male_russian:0 "Царь"
+ emperor_feudal_female_russian:0 "Царица"
+ empire_feudal_russian:0 "Царство"
+  
+# Bulgarian
+ king_feudal_male_bulgarian:0 "Царь"
+ king_feudal_female_bulgarian:0 "Царица"
+ kingdom_feudal_bulgarian:0 "Царство"
+ 
+# Serbian
+ count_feudal_male_serbian:0 "Жупан"
+ count_feudal_female_serbian:0 "Жупана"
+ county_feudal_serbian:0 "Жупанство"
+ duke_feudal_male_serbian:0 "Великий жупан"
+ duke_feudal_female_serbian:0 "Великая жупана"
+ duchy_feudal_serbian:0 "Великое жупанство"
+ 
+# Vlach
+ duke_feudal_male_vlach:0 "Воевода"
+ duke_feudal_female_vlach:0 "Воевода"
+ duchy_feudal_vlach:0 "Воеводство"
+ king_feudal_male_vlach:0 "Господар"
+ king_feudal_female_vlach:0 "Господарка"
+ kingdom_feudal_vlach:0 "Господарство"
+ 
+# Croatian
+ count_feudal_male_croatian:0 "Жупан"
+ count_feudal_female_croatian:0 "Жупана"
+ county_feudal_croatian:0 "Жупанство"

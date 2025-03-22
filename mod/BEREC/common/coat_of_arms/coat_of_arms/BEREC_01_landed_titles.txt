@@ -1,0 +1,55 @@
+e_byzantium = {
+	pattern = "pattern_solid.dds"
+	color1 = "purple"
+	color2 = "yellow"
+	colored_emblem = {
+		texture = "ce_ordinary_cross_thin.dds"
+		color1 = "yellow"
+		color2 = "yellow"		
+	}	
+	colored_emblem = {
+		texture = "ce_beta.dds"
+		color1 = "yellow"
+		color2 = "yellow"
+		instance = { position = { 0.735 0.22 } scale = { 0.55 0.55 }  }	
+		instance = { position = { 0.265 0.22 } scale = { -0.55 0.55 }  }	
+		instance = { position = { 0.265 0.715 } scale = { -0.45 0.45 }  }	
+		instance = { position = { 0.735 0.715 } scale = { 0.45 0.45 }  }	
+	}	
+	colored_emblem = {
+		texture = "ce_tamgha_roundel_frame.dds"
+		color1 = "purple"
+		color2 = "yellow"
+		instance = { position = { 0.5 0.5 } scale = { 0.4 0.4 } }
+	}
+		colored_emblem = {
+		texture = "ce_eagle_double.dds"
+		color1 = "yellow"
+		color2 = "yellow"
+		instance = { position = { 0.5 0.525 } scale = { 0.33 0.33 } }
+	}
+}
+
+k_orthodox = {
+	pattern = "pattern_solid.dds"
+	color1 = "yellow"
+	color2 = "white"				
+	colored_emblem = {
+		texture = "ce_chi_rho.dds"
+		color1 = "white"
+		color2 = "white"
+		instance = { position = { 0.5 0.48 } scale = { 1.0 1.0 }  }			
+	}		
+	colored_emblem = {
+		texture = "ce_letter_alpha.dds"
+		color1 = "white"
+		color2 = "white"
+		instance = { position = { 0.25 0.48 } scale = { 0.2 0.2 }  }		
+	}		
+	colored_emblem = {
+		texture = "ce_letter_omega.dds"
+		color1 = "white"
+		color2 = "white"
+		instance = { position = { 0.75 0.48 } scale = { 0.2 0.2 }  }		
+	}				
+}

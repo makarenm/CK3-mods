@@ -1,0 +1,17 @@
+[h1]DESCRIPTION:[/h1]
+This is an ironman/achievement compatible version of the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2432960150]Units Graphics[/url] mod by [url=https://steamcommunity.com/id/ketaroz]Ketaros[/url]. I use this myself and decided to make it public in case anyone is interested. Unlike the original mod, this does not have the new cultural custom unit graphics, only the reworked generic vanilla unit graphics.
+
+[h1]DISCLAIMER:[/h1]
+I OWN NOTHING. All credit goes to the original creator [url=https://steamcommunity.com/id/ketaroz]Ketaros[/url].
+
+Original mod: https://steamcommunity.com/sharedfiles/filedetails/?id=2432960150
+
+-------------------------------------------------
+
+DESCRIPTION:
+This is an ironman/achievement compatible version of the Units Graphics mod by Ketaros. I use this myself and decided to make it public in case anyone is interested. Unlike the original mod, this does not have the new cultural custom unit graphics, only the reworked generic vanilla unit graphics.
+
+DISCLAIMER:
+I OWN NOTHING. All credit goes to the original creator Ketaros.
+
+Original mod: https://steamcommunity.com/sharedfiles/filedetails/?id=2432960150

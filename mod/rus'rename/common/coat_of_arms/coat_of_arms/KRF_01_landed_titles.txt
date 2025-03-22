@@ -1,0 +1,37 @@
+#Used blue-yellow colour scheme to fit with the default Rurikid dynasty CoA
+
+e_russia = { #Rus'
+	pattern = "pattern_solid.dds"
+	color1 = "blue"
+	color2 = "yellow"
+
+	colored_emblem = {
+		texture = "ce_vladimir.png"
+		color1 = "blue"
+		color2 = "yellow"		
+	}	
+}
+
+k_ruthenia = {
+	pattern = "pattern_solid.dds"
+	color1 = "blue"
+	color2 = "yellow"
+	colored_emblem = {
+		texture = "ce_yaroslav.png"
+		color1 = "blue"
+		color2 = "yellow"			
+	}
+}
+
+d_kiev = {
+	#Kiev didn't have a specific historical CoA afaik, so I changed it to something that fit the colour scheme and looked nicer than a boar
+	pattern = "pattern_solid.dds"
+	color1 = "blue"
+	color2 = "blue"	
+	colored_emblem = {
+		texture = "ce_eagle_double.dds"
+		color1 = "yellow"
+		color2 = "yellow"
+		instance = { position = { 0.5 0.5 } scale = { 0.9 1.0 }  }		
+	}		
+}

@@ -1,0 +1,25 @@
+﻿l_english:
+
+ knight_bogatyr_no_tooltip:0 "Bogatyr"
+ knight_bogatyr_no_tooltip_plural:0 "Bogatyrs"
+ knight_boyar_no_tooltip:0 "Boyar"
+ knight_boyar_no_tooltip_plural:0 "Boyars"
+  
+  # Lowercase versions
+ knight_bogatyr_no_tooltip_lowercase:0 "bogatyr"
+ knight_bogatyr_no_tooltip_lowercase_plural:0 "bogatyrs"
+ knight_bogatyr_no_tooltip_lowercase_plural_possessive:0 "bogatyrs'"
+ knight_bogatyr_no_tooltip_lowercase_adjective:0 "bogatyr"
+ knight_boyar_no_tooltip_lowercase:0 "boyar"
+ knight_boyar_no_tooltip_lowercase_plural:0 "boyars"
+ knight_boyar_no_tooltip_lowercase_plural_possessive:0 "boyars'"
+ knight_boyar_no_tooltip_lowercase_adjective:0 "boyar"
+
+  #Game Concept versions
+ knight_bogatyr:0 "[Concept( 'knight', '$knight_bogatyr_no_tooltip$' )|E]"
+ knight_bogatyr_plural:0 "[Concept( 'knight', '$knight_bogatyr_no_tooltip_plural$' )|E]"
+ knight_boyar:0 "[Concept( 'knight', '$knight_boyar_no_tooltip$' )|E]"
+ knight_boyar_plural:0 "[Concept( 'knight', '$knight_boyar_no_tooltip_plural$' )|E]"
+
+
+

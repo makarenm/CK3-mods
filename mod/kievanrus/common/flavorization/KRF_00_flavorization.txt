@@ -1,0 +1,40 @@
+﻿prince_male_rus = {
+	type = character
+	gender = male
+	special = ruler_child
+	tier = kingdom
+	priority = 40
+	name_lists = { name_list_russian }
+	governments = { feudal_government tribal_government }
+	top_liege = no
+}
+prince_female_rus = {
+	type = character
+	gender = female
+	special = ruler_child
+	tier = kingdom
+	priority = 40
+	name_lists = { name_list_russian }
+	governments = { feudal_government tribal_government }
+	top_liege = no
+}
+prince_male_rus_empire = {
+	type = character
+	gender = male
+	special = ruler_child
+	tier = empire
+	priority = 40
+	name_lists = { name_list_russian }
+	governments = { feudal_government tribal_government }
+	top_liege = no
+}
+prince_female_rus_empire = {
+	type = character
+	gender = female
+	special = ruler_child
+	tier = empire
+	priority = 40
+	name_lists = { name_list_russian }
+	governments = { feudal_government tribal_government }
+	top_liege = no
+}

@@ -1,0 +1,54 @@
+﻿l_german:
+
+# Rus
+ baron_republic_male_rus:0 "Posadnist"
+ baron_republic_female_rus:0 "Posadnistin"
+ baron_feudal_male_rus:0 "Boyar"
+ baron_feudal_female_rus:0 "Boyarin"
+ barony_feudal_rus:0 "Volostentum"
+ count_feudal_male_rus:0 "Namestnist"
+ count_feudal_female_rus:0 "Namestnistin"
+ county_feudal_rus:0 "Bezirk"
+ duke_feudal_male_rus:0 "Prinz"
+ duke_feudal_female_rus:0 "Prinzessin"
+ duchy_feudal_rus:0 "Fürstentum"
+ king_feudal_male_rus:0 "Großfürst"
+ king_feudal_female_rus:0 "Großfürstin"
+ kingdom_feudal_rus:0 "Großfürstentum"
+ prince_male_rus:0 "Kniazhich"
+ prince_female_rus:0 "Kniazhnin"
+ prince_male_rus_empire:0 "Zarev"
+ prince_female_rus_empire:0 "Zarevin"
+# Vanilla
+ duke_feudal_male_russian:0 "Prinz"
+ duke_feudal_female_russian:0 "Prinzessin"
+ duchy_feudal_russian:0 "Fürstentum"
+ emperor_feudal_male_russian:0 "Zar"
+ emperor_feudal_female_russian:0 "Zarin"
+ empire_feudal_russian:0 "Zarentum"
+  
+# Bulgarian
+ king_feudal_male_bulgarian:0 "Zar"
+ king_feudal_female_bulgarian:0 "Zarin"
+ kingdom_feudal_bulgarian:0 "Zarentum"
+ 
+# Serbian
+ count_feudal_male_serbian:0 "Zhupan"
+ count_feudal_female_serbian:0 "Zhupanin"
+ county_feudal_serbian:0 "Zhupanentum"
+ duke_feudal_male_serbian:0 "Großzhupan"
+ duke_feudal_female_serbian:0 "Großzhupanin"
+ duchy_feudal_serbian:0 "Großzhupanentum"
+ 
+# Vlach
+ duke_feudal_male_vlach:0 "Woiwode"
+ duke_feudal_female_vlach:0 "Woiwodin"
+ duchy_feudal_vlach:0 "Woiwodentum"
+ king_feudal_male_vlach:0 "Hospodar"
+ king_feudal_female_vlach:0 "Hospodarin"
+ kingdom_feudal_vlach:0 "Hospodarentum"
+ 
+# Croatian
+ count_feudal_male_croatian:0 "Zhupan"
+ count_feudal_female_croatian:0 "Zhupanin"
+ county_feudal_croatian:0 "Zhupanentum"

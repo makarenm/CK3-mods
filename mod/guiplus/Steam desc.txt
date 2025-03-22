@@ -1,0 +1,5 @@
+- Saturates colours of attributes, army bars, and lifestyle trees.
+- Adds fancier character portrait borders.
+
+Credits:
+- https://steamcommunity.com/sharedfiles/filedetails/?id=2229270063

@@ -1,0 +1,21 @@
+﻿l_english:
+
+	historical_orthodox_conversion_decision_confirm:0 "Schicken Sie den Patriarchen"
+
+	historical_orthodox_rus_conversion_decision:0 "Christianisierung der Rus"
+	historical_orthodox_rus_conversion_decision_desc:0 "Viele Jahre lang hat unser Volk das reiche Reich der Römer jenseits des Schwarzen Meeres überfallen und mit ihnen Handel getrieben. In Konstantinopel steht die Hagia Sophia, das größte Gotteshaus der bekannten Welt. Vielleicht ist die Zeit gekommen, die alten Götter aufzugeben und den Glauben der Stadt der Sehnsucht der Welt anzunehmen? Immerhin hat Jesus Wasser in Wein verwandelt, und ist es nicht wahr, dass das Trinken die Freude ganz Rus ist?"
+	historical_orthodox_rus_conversion_decision_tooltip:0 "Das Volk der Rus nimmt unter Ihrer Herrschaft das orthodoxe Christentum an"
+
+	historical_orthodox_eastslavs_conversion_decision:0 "Christianisierung der Ostslawen"
+	historical_orthodox_eastslavs_conversion_decision_desc:0 "Viele Jahre lang hat unser Volk das reiche Reich der Römer jenseits des Schwarzen Meeres überfallen und mit ihm Handel getrieben. In Konstantinopel steht die Hagia Sophia, die größte Kultstätte der bekannten Welt. Vielleicht ist die Zeit gekommen, die alten Götter aufzugeben und den Glauben der Stadt der Sehnsucht der Welt anzunehmen? Immerhin hat Jesus Wasser in Wein verwandelt, und ist es nicht wahr, dass Trinken die Freude aller Slawen ist?"
+	historical_orthodox_eastslavs_conversion_decision_tooltip:0 "Die ostslawischen Völker unter Ihrer Herrschaft nehmen das orthodoxe Christentum an"
+
+	rus_gathering_decision:0 "Organisieren Sie ein Treffen der Rus-Prinzen"
+	rus_gathering_decision_desc:0 "Als Herrscher der Rus habe ich eine wichtige Position inne. Es liegt in meinem Interesse, andere mächtige Fürsten einzuladen, um ihre Gunst zu gewinnen und Angelegenheiten unserer Reiche zu besprechen. Dies wird dazu beitragen, meine Autorität zu festigen."
+	rus_gathering_decision_tooltip:0 "Hören wir, was andere Prinzen zu sagen haben"
+	rus_gathering_decision_confirm:0 "Versenden Sie die Einladungen"
+
+	nomads:0 "Nomadenhost rekrutieren"
+	nomads_desc:0 "Die Steppenbewohner sind Barbaren - sie brennen, morden und plündern, aber wir können ihre Natur zu unserem Vorteil nutzen. Wir können sie dafür bezahlen, an unserer Seite zu kämpfen, ihre erfahrenen Reiter würden sich als sehr nützlich erweisen."
+	nomads_tooltip:0 "Sogar Barbaren verstehen die Sprache des Goldes" 
+	nomads_confirm:0 "Sende den Herold"

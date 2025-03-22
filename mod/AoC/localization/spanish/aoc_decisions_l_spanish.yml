@@ -1,0 +1,15 @@
+﻿l_english:
+
+	historical_catholic_conversion_decision_confirm:0 "Mandad a buscar al Papa"
+
+	historical_catholic_norse_conversion_decision:0 "Cristianizar a los nórdicos"
+	historical_catholic_norse_conversion_decision_desc:0 "Durante muchos años, nuestro pueblo ha saqueado y comerciado con las islas occidentales cercanas y el continente sur. Este pueblo lucha ferozmente y teme a su único Dios, mientras que nosotros no tememos a nuestros dioses. ¿Quizás esto significa que el "Cristo victorioso" del que hablan sostiene y otorga mayor fuerza? Ya sea para inclinarse ante Cristo y su Vicario en Roma, o simplemente para evitar que su clero nos moleste en nuestras tierras, parece claro que la Cruz es el futuro de la fe de nuestro pueblo."
+	historical_catholic_norse_conversion_decision_tooltip:0 "Todos los pueblos germánicos del norte bajo su gobierno adoptan el cristianismo católico."
+
+	historical_catholic_westslav_conversion_decision:0 "Cristianizar a los eslavos occidentales"
+	historical_catholic_westslav_conversion_decision_desc:0 "Durante muchos años, nuestro pueblo ha tratado con los moravos y franconios tanto en el comercio como en la guerra. Tal vez sea hora de que estrechemos lazos con nuestros vecinos occidentales, a cambio de que nos reconozcan como un pueblo independiente y con capacidad de autodeterminación. Si la máxima autoridad religiosa del mundo occidental reconoce nuestro territorio como un estado soberano, nuestro pueblo sólo puede beneficiarse de abandonar a los viejos dioses."
+	historical_catholic_westslav_conversion_decision_tooltip:0 "Los pueblos eslavos occidentales bajo su gobierno adoptan el cristianismo católico."
+
+	historical_catholic_hungarian_conversion_decision:0 "Cristianizar a los húngaros"
+	historical_catholic_hungarian_conversion_decision_desc:0 "Desde que nuestro pueblo emigró de las estepas pónticas y ahora se asienta aquí, en la cuenca de los Cárpatos, hemos estado expuestos a una gran variedad de religiones y formas de vida extranjeras. Sin embargo, el poder de los pueblos occidentales es innegable: los cristianos siguen gobernando grandes extensiones de tierra fértil. ¿Quizás sus gobernantes estén verdaderamente bendecidos por la gracia de su Dios? Si es así, entonces ha llegado el momento de que abandonemos las viejas costumbres y fortalezcamos nuestro control sobre esta tierra católica abrazando su fe para que podamos gobernar por derecho divino."
+	historical_catholic_hungarian_conversion_decision_tooltip:0 "El pueblo húngaro bajo su gobierno adopta el cristianismo católico."

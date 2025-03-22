@@ -1,0 +1,503 @@
+z_mood_asimpsongcommon = {
+	music = "file:/sound/Z Immersive Music/A simple song for commoners.mp3"
+	weight = 20
+	mood = yes
+	can_be_interrupted = yes
+}
+
+z_mood_saladinjerusalem = {
+	music = "file:/sound/Z Immersive Music/Saladin Arrives At Jerusalem.mp3"
+	weight = 25
+	is_valid = {
+		religion = religion:islam_religion
+	}
+	mood = yes
+	can_be_interrupted = yes
+}
+
+z_mood_mb2empire = {
+	music = "file:/sound/Z Immersive Music/M&B2 - Empire.mp3"
+	weight = 25
+	is_valid = {
+		OR = {
+			has_title = title:e_byzantium
+			has_title = title:e_roman_empire
+		}
+	}
+	mood = yes
+	can_be_interrupted = yes
+}
+
+z_mood_komnenos = {
+	music = "file:/sound/Z Immersive Music/Komnenos.mp3"
+	weight = 25
+	is_valid = {
+		OR = {
+			has_title = title:e_byzantium
+			has_title = title:e_roman_empire
+		}
+	}
+	mood = yes
+	can_be_interrupted = yes
+}
+
+z_mood_intaberna = {
+	music = "file:/sound/Z Immersive Music/In Taberna.mp3"
+	weight = 20
+	mood = yes
+	can_be_interrupted = yes
+}
+
+z_mood_deusmisere = {
+	music = "file:/sound/Z Immersive Music/Deus Misere.mp3"
+	weight = 25
+	is_valid = {
+		religion = religion:christianity_religion
+	}
+	mood = yes
+	can_be_interrupted = yes
+}
+
+z_mood_byzantium = {
+	music = "file:/sound/Z Immersive Music/The Byzantine Empire.mp3"
+	weight = 25
+	is_valid = {
+		OR = {
+			has_title = title:e_byzantium
+			has_title = title:e_roman_empire
+		}
+	}
+	mood = yes
+	can_be_interrupted = yes
+}
+
+z_mood_legacyofrome = {
+	music = "file:/sound/Z Immersive Music/Legacy of Rome.mp3"
+	weight = 25
+	is_valid = {
+		OR = {
+			has_title = title:e_byzantium
+			has_title = title:e_roman_empire
+		}
+	}
+	mood = yes
+	can_be_interrupted = yes
+}
+
+z_mood_ck2maintitle = {
+	music = "file:/sound/Z Immersive Music/CK2 Main Title.mp3"
+	weight = 20
+	mood = yes
+	can_be_interrupted = yes
+}
+
+z_mood_ascalon = {
+	music = "file:/sound/Z Immersive Music/Ascalon.mp3"
+	weight = 25
+	is_valid = {
+		religion = religion:christianity_religion
+	}
+	mood = yes
+	can_be_interrupted = yes
+}
+
+z_mood_sandsofarabia = {
+	music = "file:/sound/Z Immersive Music/sandsofarabia.mp3"
+	weight = 25
+	is_valid = {
+		religion = religion:islam_religion
+	}
+	mood = yes
+	can_be_interrupted = yes
+}
+
+z_mood_imperia = {
+	music = "file:/sound/Z Immersive Music/imperia.mp3"
+	weight = 25
+	is_valid = {
+		OR = {
+			has_title = title:e_byzantium
+			has_title = title:e_roman_empire
+		}
+	}
+	mood = yes
+	can_be_interrupted = yes
+}
+
+z_mood_burningthepast = {
+	music = "file:/sound/Z Immersive Music/burningthepast.mp3"
+	weight = 25
+	is_valid = {
+		religion = religion:christianity_religion
+	}
+	mood = yes
+	can_be_interrupted = yes
+}
+
+z_mood_barbarians = {
+	music = "file:/sound/Z Immersive Music/Barbarians.mp3"
+	weight = 25
+	is_valid = {
+		is_at_war = yes
+	}
+	mood = yes
+	can_be_interrupted = yes
+}
+
+z_mood_deuslovult = {
+	music = "file:/sound/Z Immersive Music/Deus Lo Vult.mp3"
+	weight = 25
+	is_valid = {
+		religion = religion:christianity_religion
+	}
+	mood = yes
+	can_be_interrupted = yes
+}
+
+z_mood_holdthegates = {
+	music = "file:/sound/Z Immersive Music/Hold The Gates.mp3"
+	weight = 25
+	is_valid = {
+		is_at_war = yes
+	}
+	mood = yes
+	can_be_interrupted = yes
+}
+
+z_mood_hurwaste = {
+	music = "file:/sound/Z Immersive Music/hurricane wasteland.mp3"
+	weight = 25
+	is_valid = {
+		OR = {
+			religion = religion:tengrism_religion
+			religion = religion:magyar_religion
+		}
+	}
+	mood = yes
+	can_be_interrupted = yes
+}
+
+z_mood_inchains = {
+	music = "file:/sound/Z Immersive Music/In Chains.mp3"
+	weight = 25
+	is_valid = {
+		is_at_war = yes
+	}
+	mood = yes
+	can_be_interrupted = yes
+}
+
+z_mood_intertwined = {
+	music = "file:/sound/Z Immersive Music/Intertwined.mp3"
+	weight = 25
+	is_valid = {
+		OR = {
+			religion = religion:slavic_religion
+			religion = religion:germanic_religion
+			religion = religion:finno_ugric_religion
+			religion = religion:baltic_religion
+		}
+	}
+	mood = yes
+	can_be_interrupted = yes
+}
+
+z_mood_kingdoms = {
+	music = "file:/sound/Z Immersive Music/Kingdoms.mp3"
+	weight = 30
+	is_valid = {
+		AND = {
+			is_at_war = yes
+			religion = religion:christianity_religion
+		}
+	}
+	mood = yes
+	can_be_interrupted = yes
+}
+
+z_mood_kohcrusaders = {
+	music = "file:/sound/Z Immersive Music/KoH - Crusaders.mp3"
+	weight = 30
+	is_valid = {
+		AND = {
+			OR = {
+				is_in_ongoing_great_holy_war = yes
+				using_cb = religious_war
+			}
+			religion = religion:christianity_religion
+		}
+	}
+	mood = yes
+	can_be_interrupted = yes
+}
+
+z_mood_mb3 = {
+	music = "file:/sound/Z Immersive Music/M&B 3.mp3"
+	weight = 30
+	is_valid = {
+		AND = {
+			OR = {
+				religion = religion:slavic_religion
+				religion = religion:germanic_religion
+				religion = religion:finno_ugric_religion
+				religion = religion:baltic_religion
+			}
+			is_at_war = yes
+		}
+	}
+	mood = yes
+	can_be_interrupted = yes
+}
+
+z_mood_mb4 = {
+	music = "file:/sound/Z Immersive Music/M&B 4.mp3"
+	weight = 30
+	is_valid = {
+		AND = {
+			NOT = { 
+				religion = religion:hinduism_religion
+				religion = religion:christianity_religion
+			}
+			is_at_war = yes
+		}
+	}
+	mood = yes
+	can_be_interrupted = yes
+}
+
+z_mood_mb5 = {
+	music = "file:/sound/Z Immersive Music/M&B 5.mp3"
+	weight = 25
+	is_valid = {
+		is_at_war = yes
+	}
+	mood = yes
+	can_be_interrupted = yes
+}
+
+z_mood_mb11 = {
+	music = "file:/sound/Z Immersive Music/M&B 11.mp3"
+	weight = 25
+	is_valid = {
+		is_at_war = yes
+	}
+	mood = yes
+	can_be_interrupted = yes
+}
+
+z_mood_mb13 = {
+	music = "file:/sound/Z Immersive Music/M&B 13.mp3"
+	weight = 30
+	is_valid = {
+		AND = {
+			OR = {
+				religion = religion:slavic_religion
+				religion = religion:germanic_religion
+				religion = religion:finno_ugric_religion
+				religion = religion:baltic_religion
+			}
+			is_at_war = yes
+		}
+	}
+	mood = yes
+	can_be_interrupted = yes
+}
+
+z_mood_mb14 = {
+	music = "file:/sound/Z Immersive Music/M&B 14.mp3"
+	weight = 25
+	is_valid = {
+		is_at_war = yes
+	}
+	mood = yes
+	can_be_interrupted = yes
+}
+
+z_mood_mb15 = {
+	music = "file:/sound/Z Immersive Music/M&B 15.mp3"
+	weight = 30
+	is_valid = {
+		AND = {
+			religion = religion:christianity_religion
+			is_at_war = yes
+		}
+	}
+	mood = yes
+	can_be_interrupted = yes
+}
+
+z_mood_mb16 = {
+	music = "file:/sound/Z Immersive Music/M&B 16.mp3"
+	weight = 30
+	is_valid = {
+		AND = {
+			religion = religion:christianity_religion
+			is_at_war = yes
+		}
+	}
+	mood = yes
+	can_be_interrupted = yes
+}
+
+z_mood_mb2invasion = {
+	music = "file:/sound/Z Immersive Music/M&B2 - Invasion.mp3"
+	weight = 25
+	is_valid = {
+		is_at_war = yes
+	}
+	mood = yes
+	can_be_interrupted = yes
+}
+
+z_mood_prepmach = {
+	music = "file:/sound/Z Immersive Music/Preparing the Machinery.mp3"
+	weight = 25
+	is_valid = {
+		is_at_war = yes
+	}
+	mood = yes
+	can_be_interrupted = yes
+}
+
+z_mood_solemn = {
+	music = "file:/sound/Z Immersive Music/Solemn.mp3"
+	weight = 25
+	is_valid = {
+		is_at_war = yes
+	}
+	mood = yes
+	can_be_interrupted = yes
+}
+
+z_mood_steppes = {
+	music = "file:/sound/Z Immersive Music/steppes of the nomads.mp3"
+	weight = 25
+	is_valid = {
+		OR = {
+			religion = religion:tengrism_religion
+			religion = religion:magyar_religion
+		}
+	}
+	mood = yes
+	can_be_interrupted = yes
+}
+
+z_mood_asbysea = {
+	music = "file:/sound/Z Immersive Music/Total War Attila - Assault by Sea.mp3"
+	weight = 30
+	is_valid = {
+		AND = {
+			OR = { 
+				#religion = religion:paganism_religion
+				religion = religion:tengrism_religion
+				religion = religion:slavic_religion
+				religion = religion:germanic_religion
+				religion = religion:finno_ugric_religion
+				religion = religion:baltic_religion
+				religion = religion:magyar_religion
+				religion = religion:akom_religion
+				religion = religion:waaqism_religion
+				religion = religion:west_african_religion
+				religion = religion:west_african_bori_religion
+				religion = religion:west_african_roog_religion
+				religion = religion:west_african_orisha_religion
+				religion = religion:kushitism_religion
+			}
+			is_at_war = yes
+		}
+	}
+	mood = yes
+	can_be_interrupted = yes
+}
+
+z_mood_firenice = {
+	music = "file:/sound/Z Immersive Music/Total War Attila - Fire and Ice.mp3"
+	weight = 30
+	is_valid = {
+		AND = {
+			OR = { 
+				#religion = religion:paganism_religion
+				religion = religion:tengrism_religion
+				religion = religion:slavic_religion
+				religion = religion:germanic_religion
+				religion = religion:finno_ugric_religion
+				religion = religion:baltic_religion
+				religion = religion:magyar_religion
+				religion = religion:akom_religion
+				religion = religion:waaqism_religion
+				religion = religion:west_african_religion
+				religion = religion:west_african_bori_religion
+				religion = religion:west_african_roog_religion
+				religion = religion:west_african_orisha_religion
+				religion = religion:kushitism_religion
+			}
+			is_at_war = yes
+		}
+	}
+	mood = yes
+	can_be_interrupted = yes
+}
+
+z_mood_rome = {
+	music = "file:/sound/Z Immersive Music/Total War Attila - Rome.mp3"
+	weight = 30
+	is_valid = {
+		AND = {
+			OR = {
+				has_title = title:e_byzantium
+				has_title = title:e_roman_empire
+			}
+			is_at_war = yes
+		}
+	}
+	mood = yes
+	can_be_interrupted = yes
+}
+
+z_mood_rome2 = {
+	music = "file:/sound/Z Immersive Music/Total War Rome 2 - Brave Romans.mp3"
+	weight = 30
+	is_valid = {
+		AND = {
+			OR = {
+				has_title = title:e_byzantium
+				has_title = title:e_roman_empire
+			}
+			is_at_war = yes
+		}
+	}
+	mood = yes
+	can_be_interrupted = yes
+}
+
+z_mood_troll = {
+	music = "file:/sound/Z Immersive Music/Troll.mp3"
+	weight = 25
+	is_valid = {
+		OR = {
+			religion = religion:slavic_religion
+			religion = religion:germanic_religion
+			religion = religion:finno_ugric_religion
+			religion = religion:baltic_religion
+		}
+	}
+	mood = yes
+	can_be_interrupted = yes
+}
+
+z_mood_veniveniemmanuel = {
+	music = "file:/sound/Z Immersive Music/Veni Veni Emmanuel.mp3"
+	weight = 30
+	is_valid = {
+		AND = {
+			OR = {
+				is_in_ongoing_great_holy_war = yes
+				using_cb = religious_war
+			}
+			religion = religion:christianity_religion
+		}
+	}
+	mood = yes
+	can_be_interrupted = yes
+}
+

@@ -1,0 +1,21 @@
+﻿l_english:
+
+	historical_orthodox_conversion_decision_confirm:0 "Mandad llamar al Patriarca"
+
+	historical_orthodox_rus_conversion_decision:0 "Cristianizar a los rus"
+	historical_orthodox_rus_conversion_decision_desc:0 "Durante muchos años, nuestro pueblo ha saqueado y comerciado con el rico reino de los romanos al otro lado del Mar Negro. En Constantinopla se encuentra Santa Sofía, el lugar de culto más grande del mundo conocido. ¿Quizás ha llegado el momento de abandonar a los antiguos dioses y adoptar la fe de la Ciudad del Deseo del Mundo? Después de todo, Jesús convirtió el agua en vino, ¿y no es cierto que beber es la alegría de toda Rus?"
+	historical_orthodox_rus_conversion_decision_tooltip:0 "El pueblo ruso bajo su gobierno adopta el cristianismo ortodoxo"
+
+	historical_orthodox_eastslavs_conversion_decision:0 "Cristianizar a los eslavos orientales"
+	historical_orthodox_eastslavs_conversion_decision_desc:0 "Durante muchos años, nuestro pueblo ha saqueado y comerciado con el rico reino de los romanos al otro lado del Mar Negro. En Constantinopla se encuentra Santa Sofía, el lugar de culto más grande del mundo conocido. ¿Tal vez ha llegado el momento de abandonar a los antiguos dioses y adoptar la fe de la Ciudad del Deseo del Mundo? Después de todo, Jesús convirtió el agua en vino, ¿y no es cierto que beber es la alegría de todos los eslavos?"
+	historical_orthodox_eastslavs_conversion_decision_tooltip:0 "Los pueblos eslavos orientales bajo su gobierno adoptan el cristianismo ortodoxo."
+
+	rus_gathering_decision:0 "Organizar una reunión de los príncipes ruses"
+	rus_gathering_decision_desc:0 "Como gobernante de Rus, ocupo una posición importante. Me conviene invitar a otros príncipes poderosos para ganarme su favor y discutir asuntos de nuestros reinos; esto ayudará a consolidar mi autoridad."
+	rus_gathering_decision_tooltip:0 "Escuchemos lo que otros Príncipes tienen que decir"
+	rus_gathering_decision_confirm:0 "Envía las invitaciones"
+
+	nomads:0 "Reclutar anfitrión nómada"
+	nomads_desc:0 "Los habitantes de las estepas son bárbaros; queman, asesinan y saquean, pero podemos utilizar su naturaleza en nuestro beneficio. Podemos pagarles para que luchen junto a nosotros; sus jinetes experimentados nos resultarían muy útiles."
+	nomads_tooltip:0 "Incluso los bárbaros entienden el lenguaje del oro" 
+	nomads_confirm:0 "Envía el heraldo"
