@@ -7,5 +7,5 @@ tags={
 	"Map"
 }
 name="Kievan Rus fix"
-supported_version="1.14.*"
+supported_version="1.16.*"
 remote_file_id="2218355435"
