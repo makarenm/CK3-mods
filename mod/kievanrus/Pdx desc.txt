@@ -15,11 +15,11 @@ IS THAT ALL?
 • A new decision called "Christianise the Rus" has been added which becomes available to all non-Christian independent Rus rulers (AI takes it from 988 onwards). This allows the AI to adopt Orthodoxy as opposed to Kabarism/Paganism or being holy warred to extinction. The decision becomes "Christianise the East Slavs" for Rus-divergent or East Slavic hybrid cultures.
 • "Ruthenia" has been renamed to "Kyiv" due to common obscurity and confusion around the name of "Ruthenia" which is just Latinised "Rus". Additionally, the Rus cultural title holders and heirs of Kingdoms and Counties have been changed as follows for cultural and historical accuracy: 
 - Grand Prince (Duke) -> Knyaz
-- Grand Princess (Duchess) -> Knyazitsa
+- Grand Princess (Duchess) -> Knyaginya
 - Grand Principality (Duchy) -> Knyazhestvo
 - Kingdom -> Grand Knyazhestvo
 - King -> Grand Knyaz
-- Queen -> Grand Knyazitsa
+- Queen -> Grand Knyaginya
 - Prince (Kingdom heir) -> Kniazhich 
 - Princess (Kingdom heiress) -> Kniazhna 
 - Prince (Empire heir) -> Tsarevich 

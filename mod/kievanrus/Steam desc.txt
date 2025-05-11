@@ -17,11 +17,11 @@
 • Renamed White Rus' to Polotsk (Credit to Steam User YuriVII).
 • "Ruthenia" has been renamed to "Kyiv" due to common obscurity and confusion around the name of "Ruthenia" which is just Latinised "Rus". Additionally, the Rus cultural title holders and heirs have been changed as follows for cultural and historical accuracy:
 - Grand Prince (Duke) -> Knyaz
-- Grand Princess (Duchess) -> Knyazitsa
+- Grand Princess (Duchess) -> Knyaginya
 - Grand Principality (Duchy) -> Knyazhestvo
 - Kingdom -> Grand Knyazhestvo
 - King -> Grand Knyaz
-- Queen -> Grand Knyazitsa
+- Queen -> Grand Knyaginya
 - Prince (Kingdom heir) -> Kniazhich
 - Princess (Kingdom heiress) -> Kniazhna
 - Prince (Empire heir) -> Tsarevich
