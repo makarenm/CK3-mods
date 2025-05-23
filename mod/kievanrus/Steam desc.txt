@@ -63,6 +63,7 @@ Queen -> Tsaritsa
 
 [h1]Compatibility[/h1]
 • Should be fully compatible with mods that don't edit the above localizations and flavorizations.
+• Compatible with Culture Expanded
 
 [h1]Language Localisation[/h1]
 • I did my best with localisation in other languages, but have not extensively tested them in-game. If you see mistakes, errors or flaws in a non-English language, please let me know and I'll try to fix it.

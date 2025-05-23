@@ -9,8 +9,7 @@ baron_republic_male_rus = {
 	priority = 7
 	top_liege = no
 	governments = { republic_government }
-	name_lists = { name_list_russian }
-	only_holder = yes
+	name_lists = { name_list_russian name_list_volhynian name_list_byelorusian name_list_volyn name_list_novgorodian name_list_chernigovan name_list_ryazanian name_list_vladimirian name_list_ruthenian name_list_severian name_list_ilmenian }
 }
 baron_republic_female_rus = {
 	type = character
@@ -20,8 +19,14 @@ baron_republic_female_rus = {
 	priority = 7
 	top_liege = no
 	governments = { republic_government }
-	name_lists = { name_list_russian }
-	only_holder = yes
+	name_lists = { name_list_russian name_list_volhynian name_list_byelorusian name_list_volyn name_list_novgorodian name_list_chernigovan name_list_ryazanian name_list_vladimirian name_list_ruthenian name_list_severian name_list_ilmenian }
+}
+barony_republic_rus = {
+	type = title
+	tier = barony
+	priority = 7
+	governments = { republic_government }
+	name_lists = { name_list_russian name_list_volhynian name_list_byelorusian name_list_volyn name_list_novgorodian name_list_chernigovan name_list_ryazanian name_list_vladimirian name_list_ruthenian name_list_severian name_list_ilmenian }
 }
 baron_feudal_male_rus = {
 	type = character
@@ -30,8 +35,7 @@ baron_feudal_male_rus = {
 	tier = barony
 	priority = 7
 	governments = { feudal_government tribal_government }
-	name_lists = { name_list_russian }
-	only_holder = yes
+	name_lists = { name_list_russian name_list_volhynian name_list_byelorusian name_list_volyn name_list_novgorodian name_list_chernigovan name_list_ryazanian name_list_vladimirian name_list_ruthenian name_list_severian name_list_ilmenian }
 }
 baron_feudal_female_rus = {
 	type = character
@@ -40,15 +44,14 @@ baron_feudal_female_rus = {
 	tier = barony
 	priority = 7
 	governments = { feudal_government tribal_government }
-	name_lists = { name_list_russian }
-	only_holder = yes
+	name_lists = { name_list_russian name_list_volhynian name_list_byelorusian name_list_volyn name_list_novgorodian name_list_chernigovan name_list_ryazanian name_list_vladimirian name_list_ruthenian name_list_severian name_list_ilmenian }
 }
 barony_feudal_rus = {
 	type = title
 	tier = barony
-	priority = 18
+	priority = 7
 	governments = { feudal_government tribal_government }
-	name_lists = { name_list_russian }
+	name_lists = { name_list_russian name_list_volhynian name_list_byelorusian name_list_volyn name_list_novgorodian name_list_chernigovan name_list_ryazanian name_list_vladimirian name_list_ruthenian name_list_severian name_list_ilmenian }
 }
 count_feudal_male_rus = {
 	type = character
@@ -57,8 +60,7 @@ count_feudal_male_rus = {
 	tier = county
 	priority = 18
 	governments = { feudal_government tribal_government }
-	name_lists = { name_list_russian }
-	only_holder = yes
+	name_lists = { name_list_russian name_list_volhynian name_list_byelorusian name_list_volyn name_list_novgorodian name_list_chernigovan name_list_ryazanian name_list_vladimirian name_list_ruthenian name_list_severian name_list_ilmenian }
 }
 count_feudal_female_rus = {
 	type = character
@@ -67,15 +69,39 @@ count_feudal_female_rus = {
 	tier = county
 	priority = 18
 	governments = { feudal_government tribal_government }
-	name_lists = { name_list_russian }
-	only_holder = yes
+	name_lists = { name_list_russian name_list_volhynian name_list_byelorusian name_list_volyn name_list_novgorodian name_list_chernigovan name_list_ryazanian name_list_vladimirian name_list_ruthenian name_list_severian name_list_ilmenian }
 }
 county_feudal_rus = {
 	type = title
 	tier = county
 	priority = 18
 	governments = { feudal_government tribal_government }
-	name_lists = { name_list_russian }
+	name_lists = { name_list_russian name_list_volhynian name_list_byelorusian name_list_volyn name_list_novgorodian name_list_chernigovan name_list_ryazanian name_list_vladimirian name_list_ruthenian name_list_severian name_list_ilmenian }
+}
+duke_feudal_male_rus = {
+	type = character
+	gender = male
+	special = holder
+	tier = duchy
+	priority = 30
+	governments = { feudal_government tribal_government }
+	name_lists = { name_list_russian name_list_volhynian name_list_byelorusian name_list_volyn name_list_novgorodian name_list_chernigovan name_list_ryazanian name_list_vladimirian name_list_ruthenian name_list_severian name_list_ilmenian }
+}
+duke_feudal_female_rus = {
+	type = character
+	gender = female
+	special = holder
+	tier = duchy
+	priority = 30
+	governments = { feudal_government tribal_government }
+	name_lists = { name_list_russian name_list_volhynian name_list_byelorusian name_list_volyn name_list_novgorodian name_list_chernigovan name_list_ryazanian name_list_vladimirian name_list_ruthenian name_list_severian name_list_ilmenian }
+}
+duchy_feudal_rus = {
+	type = title
+	tier = duchy
+	priority = 30
+	governments = { feudal_government tribal_government }
+	name_lists = { name_list_russian name_list_volhynian name_list_byelorusian name_list_volyn name_list_novgorodian name_list_chernigovan name_list_ryazanian name_list_vladimirian name_list_ruthenian name_list_severian name_list_ilmenian }
 }
 king_feudal_male_rus = {
 	type = character
@@ -84,7 +110,7 @@ king_feudal_male_rus = {
 	tier = kingdom
 	priority = 47
 	governments = { feudal_government tribal_government }
-	name_lists = { name_list_russian }
+	name_lists = { name_list_russian name_list_volhynian name_list_byelorusian name_list_volyn name_list_novgorodian name_list_chernigovan name_list_ryazanian name_list_vladimirian name_list_ruthenian name_list_severian name_list_ilmenian }
 }
 king_feudal_female_rus = {
 	type = character
@@ -93,14 +119,14 @@ king_feudal_female_rus = {
 	tier = kingdom
 	priority = 47
 	governments = { feudal_government tribal_government }
-	name_lists = { name_list_russian }
+	name_lists = { name_list_russian name_list_volhynian name_list_byelorusian name_list_volyn name_list_novgorodian name_list_chernigovan name_list_ryazanian name_list_vladimirian name_list_ruthenian name_list_severian name_list_ilmenian }
 }
 kingdom_feudal_rus = {
 	type = title
 	tier = kingdom
 	priority = 47
 	governments = { feudal_government tribal_government }
-	name_lists = { name_list_russian }
+	name_lists = { name_list_russian name_list_volhynian name_list_byelorusian name_list_volyn name_list_novgorodian name_list_chernigovan name_list_ryazanian name_list_vladimirian name_list_ruthenian name_list_severian name_list_ilmenian }
 }
 
 # Bulgarian

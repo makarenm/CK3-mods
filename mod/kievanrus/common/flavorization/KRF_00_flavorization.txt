@@ -4,7 +4,7 @@
 	special = ruler_child
 	tier = kingdom
 	priority = 40
-	name_lists = { name_list_russian }
+	name_lists = { name_list_russian name_list_volhynian name_list_byelorusian name_list_volyn name_list_novgorodian name_list_chernigovan name_list_ryazanian name_list_vladimirian name_list_ruthenian name_list_severian name_list_ilmenian }
 	governments = { feudal_government tribal_government }
 	top_liege = no
 }
@@ -14,7 +14,7 @@ prince_female_rus = {
 	special = ruler_child
 	tier = kingdom
 	priority = 40
-	name_lists = { name_list_russian }
+	name_lists = { name_list_russian name_list_volhynian name_list_byelorusian name_list_volyn name_list_novgorodian name_list_chernigovan name_list_ryazanian name_list_vladimirian name_list_ruthenian name_list_severian name_list_ilmenian }
 	governments = { feudal_government tribal_government }
 	top_liege = no
 }
@@ -24,7 +24,7 @@ prince_male_rus_empire = {
 	special = ruler_child
 	tier = empire
 	priority = 40
-	name_lists = { name_list_russian }
+	name_lists = { name_list_russian name_list_volhynian name_list_byelorusian name_list_volyn name_list_novgorodian name_list_chernigovan name_list_ryazanian name_list_vladimirian name_list_ruthenian name_list_severian name_list_ilmenian }
 	governments = { feudal_government tribal_government }
 	top_liege = no
 }
@@ -34,7 +34,7 @@ prince_female_rus_empire = {
 	special = ruler_child
 	tier = empire
 	priority = 40
-	name_lists = { name_list_russian }
+	name_lists = { name_list_russian name_list_volhynian name_list_byelorusian name_list_volyn name_list_novgorodian name_list_chernigovan name_list_ryazanian name_list_vladimirian name_list_ruthenian name_list_severian name_list_ilmenian }
 	governments = { feudal_government tribal_government }
 	top_liege = no
 }

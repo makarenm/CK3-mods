@@ -70,6 +70,7 @@ GAME VERSION 1.5 CHANGES
 
 COMPATIBILITY? 
 • Should be fully compatible with mods that don't edit the above localizations and flavorizations.
+• Compatible with Culture Expanded
 
 LOCALISATION? 
 • I did my best with localisation in other languages, but have not extensively tested them in-game. If you see mistakes, errors or flaws in a non-English language, please let me know and I'll try to fix it. 
